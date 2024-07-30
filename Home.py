@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import os
-from pykrx import stock
 import warnings
 import datetime as dt
 from streamlit_extras.switch_page_button import switch_page
